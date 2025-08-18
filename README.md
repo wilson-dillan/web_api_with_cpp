@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Table of content
 
 - [Table of content](#table-of-content)
@@ -1448,3 +1449,7 @@ terminal:
 
 Congratulations!  
 The `calculator_back-end` is completed, Now you can work with calculator.
+=======
+# sample_website
+sample website experimentation to show how React JS and CPP go together
+>>>>>>> ec973e0e76f297ffceb3ea632774456737bf7506

@@ -1,5 +1,10 @@
 ## Table of content
 
+**Dillan's Notes**
+Next Steps:
+* continue with website tutorial. Continue with CPP side of the project
+
+
 - [Table of content](#table-of-content)
 - [Introduction](#introduction)
 - [calculator Front-end](#calculator-front-end)

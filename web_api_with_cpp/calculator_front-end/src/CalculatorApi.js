@@ -1,6 +1,6 @@
 class CalculatorApi {
 
-   constructor(serviceAddress) {
+    constructor(serviceAddress) {
         this.serviceAddress = serviceAddress;
     }
 
@@ -21,7 +21,6 @@ class CalculatorApi {
           }
         );
     }
-
 }
 
 export default CalculatorApi;

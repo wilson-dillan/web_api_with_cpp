@@ -1,6 +1,6 @@
-import React from 'react'
-import CalculatorButton from './CalculatorButton'
-import CalculatorDisplay from './CalculatorDisplay'
+import CalculatorButton from "./CalculatorButton";
+import CalculatorDisplay from "./CalculatorDisplay";
+
 function CalculatorPanel(props) {
   
   const buttons = [
@@ -29,7 +29,7 @@ function CalculatorPanel(props) {
       onClick={value.handler} />
   });
 
-  return(
+ return(
     <div className="calculator-grid-container">
     <CalculatorDisplay text={props.result} />
       {calc_buttons}
@@ -37,5 +37,5 @@ function CalculatorPanel(props) {
   );
 
 }
-export default CalculatorPanel;
 
+export default CalculatorPanel;
